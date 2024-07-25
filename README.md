@@ -4,4 +4,4 @@ En Drogueria Cruz Verde, nos enorgullecemos de ser tu aliado de confianza en el 
 </p>
 <img src="image.png" alt="DROGUERIA CRUZ VERDE" title="DROGUERIA CRUZ VERDE" />
 
-![DROGUERIA CRUZ VERDE](image.png)
+![DROGUERIA CRUZ VERDE](https://redprensa.com/sites/default/files/cruz-verde-.jpg)
